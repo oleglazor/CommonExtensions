@@ -8,10 +8,10 @@ Imports System.Runtime.InteropServices
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("NHSScotland.Payroll.Utilities.SmtpClient")>
+<Assembly: AssemblyTitle("Common.SmtpClient")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("NHSScotland.Payroll.Utilities.SmtpClient")>
+<Assembly: AssemblyProduct("Common.SmtpClient")>
 <Assembly: AssemblyCopyright("Copyright ©  2020")>
 <Assembly: AssemblyTrademark("")>
 

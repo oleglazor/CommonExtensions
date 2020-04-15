@@ -57,7 +57,7 @@ End Interface
 ''' it expect section in configuration file
 ''' example:
 '''    <configSections>
-'''        <section name="SmtpSettingsSection" type="NHSScotland.Payroll.Utilities.Extensions.SmtpSettingsSection, NHSScotland.Payroll.Utilities.Extensions"/>
+'''        <section name="SmtpSettingsSection" type="Common.SmtpSettingsSection, Common.Extensions"/>
 '''    </configSections>
 '''    <SmtpSettingsSection>
 '''        <SmtpServers>
